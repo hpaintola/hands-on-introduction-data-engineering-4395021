@@ -1,0 +1,161 @@
+[2025-08-13T15:49:14.487+0000] {processor.py:157} INFO - Started process (PID=2159) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:49:14.488+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:49:14.489+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:49:14.488+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:49:14.493+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:49:14.498+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:49:14.498+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:49:14.513+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:49:14.513+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:49:14.513608+00:00, run_after=2025-08-13T15:49:14.513608+00:00
+[2025-08-13T15:49:14.529+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.044 seconds
+[2025-08-13T15:49:56.313+0000] {processor.py:157} INFO - Started process (PID=2460) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:49:56.314+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:49:56.315+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:49:56.315+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:49:56.319+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:49:56.330+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:49:56.330+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:49:56.344+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:49:56.344+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:49:56.344190+00:00, run_after=2025-08-13T15:49:56.344190+00:00
+[2025-08-13T15:49:56.359+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2025-08-13T15:50:40.517+0000] {processor.py:157} INFO - Started process (PID=2839) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:50:40.518+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:50:40.518+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:50:40.518+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:50:40.523+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:50:40.536+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:50:40.536+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:50:40.551+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:50:40.551+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:50:40.551179+00:00, run_after=2025-08-13T15:50:40.551179+00:00
+[2025-08-13T15:50:40.566+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.051 seconds
+[2025-08-13T15:51:24.801+0000] {processor.py:157} INFO - Started process (PID=3258) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:51:24.801+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:51:24.802+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:51:24.802+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:51:24.808+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:51:24.825+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:51:24.825+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:51:24.849+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:51:24.849+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:51:24.848964+00:00, run_after=2025-08-13T15:51:24.848964+00:00
+[2025-08-13T15:51:24.866+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.068 seconds
+[2025-08-13T15:52:10.412+0000] {processor.py:157} INFO - Started process (PID=3570) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:52:10.413+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:52:10.414+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:52:10.413+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:52:10.418+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:52:10.430+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:52:10.430+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:52:10.445+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:52:10.445+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:52:10.445242+00:00, run_after=2025-08-13T15:52:10.445242+00:00
+[2025-08-13T15:52:10.460+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.051 seconds
+[2025-08-13T15:53:04.307+0000] {processor.py:157} INFO - Started process (PID=4178) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:53:04.308+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:53:04.309+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:53:04.308+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:53:04.313+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:53:04.323+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:53:04.323+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:53:04.337+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:53:04.337+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:53:04.337192+00:00, run_after=2025-08-13T15:53:04.337192+00:00
+[2025-08-13T15:53:04.352+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2025-08-13T15:53:46.526+0000] {processor.py:157} INFO - Started process (PID=4474) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:53:46.526+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:53:46.527+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:53:46.527+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:53:46.531+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:53:46.542+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:53:46.541+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:53:46.556+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:53:46.555+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:53:46.555772+00:00, run_after=2025-08-13T15:53:46.555772+00:00
+[2025-08-13T15:53:46.570+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2025-08-13T15:54:30.193+0000] {processor.py:157} INFO - Started process (PID=4804) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:54:30.194+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:54:30.195+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:54:30.194+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:54:30.199+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:54:30.209+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:54:30.209+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:54:30.224+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:54:30.223+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:54:30.223815+00:00, run_after=2025-08-13T15:54:30.223815+00:00
+[2025-08-13T15:54:30.239+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2025-08-13T15:55:21.161+0000] {processor.py:157} INFO - Started process (PID=5161) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:55:21.162+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:55:21.162+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:55:21.162+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:55:21.167+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:55:21.177+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:55:21.177+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:55:21.191+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:55:21.191+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:55:21.191021+00:00, run_after=2025-08-13T15:55:21.191021+00:00
+[2025-08-13T15:55:21.206+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2025-08-13T15:56:05.121+0000] {processor.py:157} INFO - Started process (PID=5558) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:56:05.122+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:56:05.123+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:56:05.123+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:56:05.127+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:56:05.139+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:56:05.139+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:56:05.154+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:56:05.154+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:56:05.154404+00:00, run_after=2025-08-13T15:56:05.154404+00:00
+[2025-08-13T15:56:05.170+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2025-08-13T15:56:53.585+0000] {processor.py:157} INFO - Started process (PID=6024) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:56:53.586+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:56:53.586+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:56:53.586+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:56:53.591+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:56:53.602+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:56:53.602+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:56:53.616+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:56:53.616+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:56:53.615944+00:00, run_after=2025-08-13T15:56:53.615944+00:00
+[2025-08-13T15:56:53.632+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2025-08-13T15:57:44.730+0000] {processor.py:157} INFO - Started process (PID=6368) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:57:44.731+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:57:44.732+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:57:44.731+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:57:44.736+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:57:44.746+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:57:44.746+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:57:44.760+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:57:44.760+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:57:44.760055+00:00, run_after=2025-08-13T15:57:44.760055+00:00
+[2025-08-13T15:57:44.775+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2025-08-13T15:58:30.137+0000] {processor.py:157} INFO - Started process (PID=6676) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:58:30.138+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:58:30.139+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:58:30.138+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:58:30.143+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:58:30.154+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:58:30.154+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:58:30.169+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:58:30.168+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:58:30.168700+00:00, run_after=2025-08-13T15:58:30.168700+00:00
+[2025-08-13T15:58:30.184+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2025-08-13T15:59:17.689+0000] {processor.py:157} INFO - Started process (PID=6991) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:59:17.690+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:59:17.691+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:59:17.690+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:59:17.696+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:59:17.728+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:59:17.728+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:59:17.767+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:59:17.767+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:59:17.767087+00:00, run_after=2025-08-13T15:59:17.767087+00:00
+[2025-08-13T15:59:17.804+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.118 seconds
+[2025-08-13T15:59:59.363+0000] {processor.py:157} INFO - Started process (PID=7291) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:59:59.363+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T15:59:59.364+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:59:59.364+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:59:59.368+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T15:59:59.379+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:59:59.379+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T15:59:59.393+0000] {logging_mixin.py:150} INFO - [2025-08-13T15:59:59.393+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T11:59:59.393356+00:00, run_after=2025-08-13T15:59:59.393356+00:00
+[2025-08-13T15:59:59.409+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2025-08-13T16:01:43.230+0000] {processor.py:157} INFO - Started process (PID=8345) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:01:43.230+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T16:01:43.231+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:01:43.231+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:01:43.236+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:01:43.249+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:01:43.248+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T16:01:43.262+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:01:43.262+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T12:01:43.262700+00:00, run_after=2025-08-13T16:01:43.262700+00:00
+[2025-08-13T16:01:43.277+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2025-08-13T16:02:26.766+0000] {processor.py:157} INFO - Started process (PID=8640) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:02:26.767+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T16:02:26.767+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:02:26.767+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:02:26.772+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:02:26.783+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:02:26.783+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T16:02:26.797+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:02:26.797+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T12:02:26.797357+00:00, run_after=2025-08-13T16:02:26.797357+00:00
+[2025-08-13T16:02:26.813+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2025-08-13T16:03:11.770+0000] {processor.py:157} INFO - Started process (PID=8941) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:03:11.771+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T16:03:11.772+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:03:11.772+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:03:11.776+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:03:11.787+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:03:11.787+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T16:03:11.802+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:03:11.801+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T12:03:11.801774+00:00, run_after=2025-08-13T16:03:11.801774+00:00
+[2025-08-13T16:03:11.817+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2025-08-13T16:03:55.089+0000] {processor.py:157} INFO - Started process (PID=9257) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:03:55.089+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T16:03:55.090+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:03:55.090+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:03:55.094+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:03:55.106+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:03:55.106+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T16:03:55.125+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:03:55.125+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T12:03:55.124947+00:00, run_after=2025-08-13T16:03:55.124947+00:00
+[2025-08-13T16:03:55.145+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.058 seconds
+[2025-08-13T16:04:44.530+0000] {processor.py:157} INFO - Started process (PID=9607) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:04:44.531+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T16:04:44.532+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:04:44.532+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:04:44.537+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:04:44.548+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:04:44.548+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T16:04:44.563+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:04:44.562+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T12:04:44.562802+00:00, run_after=2025-08-13T16:04:44.562802+00:00
+[2025-08-13T16:04:44.578+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.050 seconds
+[2025-08-13T16:05:35.070+0000] {processor.py:157} INFO - Started process (PID=9948) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:05:35.070+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T16:05:35.071+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:05:35.071+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:05:35.075+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:05:35.087+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:05:35.087+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T16:05:35.103+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:05:35.102+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T12:05:35.102657+00:00, run_after=2025-08-13T16:05:35.102657+00:00
+[2025-08-13T16:05:35.122+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.054 seconds
+[2025-08-13T16:06:21.865+0000] {processor.py:157} INFO - Started process (PID=10341) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:06:21.866+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T16:06:21.866+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:06:21.866+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:06:21.871+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:06:21.882+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:06:21.881+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T16:06:21.895+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:06:21.895+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T12:06:21.895477+00:00, run_after=2025-08-13T16:06:21.895477+00:00
+[2025-08-13T16:06:21.912+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2025-08-13T16:07:08.392+0000] {processor.py:157} INFO - Started process (PID=10652) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:07:08.393+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-08-13T16:07:08.394+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:07:08.393+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:07:08.398+0000] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2025-08-13T16:07:08.408+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:07:08.408+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-13T16:07:08.422+0000] {logging_mixin.py:150} INFO - [2025-08-13T16:07:08.422+0000] {dag.py:3504} INFO - Setting next_dagrun for latest_only to 2025-08-13T12:07:08.422683+00:00, run_after=2025-08-13T16:07:08.422683+00:00
+[2025-08-13T16:07:08.438+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
