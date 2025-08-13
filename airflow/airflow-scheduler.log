@@ -1,0 +1,107 @@
+2025-08-13 03:24:33,956 INFO - Starting the scheduler
+2025-08-13 03:24:33,957 INFO - Processing each file at most -1 times
+2025-08-13 03:24:33,962 INFO - Launched DagFileProcessorManager with pid: 4597
+2025-08-13 03:24:33,963 INFO - Resetting orphaned tasks for active dag runs
+2025-08-13 03:24:33,966 INFO - Configured default timezone Timezone('UTC')
+2025-08-13 03:29:34,039 INFO - Resetting orphaned tasks for active dag runs
+2025-08-13 03:32:45,017 WARNING - The Authorization header is missing: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:8793
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-IN;q=0.9,en-US;q=0.8,en;q=0.7
+Cache-Control: max-age=0
+Referer: https://scaling-computing-machine-vxx49x4j67jcwg7.github.dev/
+X-Request-Id: 9de0cdd845956424a91f77cbde7aadd5
+X-Real-Ip: 223.227.82.209
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-Uri: /
+X-Scheme: https
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Sec-Ch-Ua: "Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "macOS"
+Priority: u=0, i
+X-Original-Proto: https
+X-Forwarded-Proto: https
+X-Forwarded-Host: scaling-computing-machine-vxx49x4j67jcwg7-8793.app.github.dev
+X-Forwarded-For: 223.227.82.209
+Proxy-Connection: Keep-Alive
+
+.
+2025-08-13 03:32:45,019 WARNING - Unknown error
+Traceback (most recent call last):
+  File "/workspaces/hands-on-introduction-data-engineering-4395021/airflow_env/lib/python3.10/site-packages/airflow/utils/serve_logs.py", line 61, in validate_pre_signed_url
+    abort(403)
+  File "/workspaces/hands-on-introduction-data-engineering-4395021/airflow_env/lib/python3.10/site-packages/flask/helpers.py", line 310, in abort
+    current_app.aborter(code, *args, **kwargs)
+  File "/workspaces/hands-on-introduction-data-engineering-4395021/airflow_env/lib/python3.10/site-packages/werkzeug/exceptions.py", line 864, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.Forbidden: 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2025-08-13 03:32:45,322 WARNING - The Authorization header is missing: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Host: localhost:8793
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-IN;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: https://scaling-computing-machine-vxx49x4j67jcwg7-8793.app.github.dev/
+X-Request-Id: 676b0bf137c86d62fa36dd4233385493
+X-Real-Ip: 223.227.82.209
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+X-Original-Uri: /favicon.ico
+X-Scheme: https
+Sec-Ch-Ua-Platform: "macOS"
+Sec-Ch-Ua: "Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Priority: u=1, i
+X-Original-Proto: https
+X-Forwarded-Proto: https
+X-Forwarded-Host: scaling-computing-machine-vxx49x4j67jcwg7-8793.app.github.dev
+X-Forwarded-For: 223.227.82.209
+Proxy-Connection: Keep-Alive
+
+.
+2025-08-13 03:32:45,323 WARNING - Unknown error
+Traceback (most recent call last):
+  File "/workspaces/hands-on-introduction-data-engineering-4395021/airflow_env/lib/python3.10/site-packages/airflow/utils/serve_logs.py", line 61, in validate_pre_signed_url
+    abort(403)
+  File "/workspaces/hands-on-introduction-data-engineering-4395021/airflow_env/lib/python3.10/site-packages/flask/helpers.py", line 310, in abort
+    current_app.aborter(code, *args, **kwargs)
+  File "/workspaces/hands-on-introduction-data-engineering-4395021/airflow_env/lib/python3.10/site-packages/werkzeug/exceptions.py", line 864, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.Forbidden: 403 Forbidden: You don't have the permission to access the requested resource. It is either read-protected or not readable by the server.
+2025-08-13 03:34:34,174 INFO - Resetting orphaned tasks for active dag runs
+2025-08-13 03:38:57,435 INFO - Exiting gracefully upon receiving signal 15
+2025-08-13 03:38:58,439 INFO - Sending Signals.SIGTERM to group 4597. PIDs of all processes in the group: [4597]
+2025-08-13 03:38:58,440 INFO - Sending the signal Signals.SIGTERM to group 4597
+2025-08-13 03:38:58,613 INFO - Process psutil.Process(pid=4597, status='terminated', exitcode=0, started='03:24:33') (4597) terminated with exit code 0
+2025-08-13 03:38:58,615 INFO - Sending Signals.SIGTERM to group 4597. PIDs of all processes in the group: []
+2025-08-13 03:38:58,615 INFO - Sending the signal Signals.SIGTERM to group 4597
+2025-08-13 03:38:58,616 INFO - Sending the signal Signals.SIGTERM to process 4597 as process group is missing.
+2025-08-13 03:38:58,616 INFO - Exited execute loop
+2025-08-13 10:25:27,596 INFO - Starting the scheduler
+2025-08-13 10:25:27,611 INFO - Processing each file at most -1 times
+2025-08-13 10:25:27,616 INFO - Launched DagFileProcessorManager with pid: 2182
+2025-08-13 10:25:27,617 INFO - Resetting orphaned tasks for active dag runs
+2025-08-13 10:25:27,620 INFO - Configured default timezone Timezone('UTC')
+2025-08-13 10:30:27,829 INFO - Resetting orphaned tasks for active dag runs
+2025-08-13 10:35:27,986 INFO - Resetting orphaned tasks for active dag runs
+2025-08-13 10:40:28,144 INFO - Resetting orphaned tasks for active dag runs
+2025-08-13 10:41:05,841 INFO - Exiting gracefully upon receiving signal 15
+2025-08-13 10:41:06,845 INFO - Sending Signals.SIGTERM to group 2182. PIDs of all processes in the group: [2182]
+2025-08-13 10:41:06,845 INFO - Sending the signal Signals.SIGTERM to group 2182
+2025-08-13 10:41:07,099 INFO - Process psutil.Process(pid=2182, status='terminated', exitcode=0, started='10:25:27') (2182) terminated with exit code 0
+2025-08-13 10:41:07,101 INFO - Sending Signals.SIGTERM to group 2182. PIDs of all processes in the group: []
+2025-08-13 10:41:07,101 INFO - Sending the signal Signals.SIGTERM to group 2182
+2025-08-13 10:41:07,101 INFO - Sending the signal Signals.SIGTERM to process 2182 as process group is missing.
+2025-08-13 10:41:07,102 INFO - Exited execute loop
+2025-08-13 10:42:17,257 INFO - Starting the scheduler
+2025-08-13 10:42:17,258 INFO - Processing each file at most -1 times
+2025-08-13 10:42:17,263 INFO - Launched DagFileProcessorManager with pid: 9770
+2025-08-13 10:42:17,264 INFO - Resetting orphaned tasks for active dag runs
+2025-08-13 10:42:17,267 INFO - Configured default timezone Timezone('UTC')
