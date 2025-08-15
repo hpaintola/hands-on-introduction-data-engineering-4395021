@@ -1,0 +1,14 @@
+[2025-08-15T14:31:02.069+0000] {processor.py:157} INFO - Started process (PID=4979) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-08-15T14:31:02.069+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-08-15T14:31:02.070+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:31:02.070+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-08-15T14:31:02.081+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-08-15T14:31:02.097+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:31:02.097+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-15T14:31:02.113+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:31:02.113+0000] {dag.py:3504} INFO - Setting next_dagrun for example_task_group_decorator to 2025-08-14T14:31:02.113121+00:00, run_after=2025-08-15T14:31:02.113121+00:00
+[2025-08-15T14:31:02.129+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.063 seconds
+[2025-08-15T14:31:47.230+0000] {processor.py:157} INFO - Started process (PID=5307) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-08-15T14:31:47.231+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2025-08-15T14:31:47.232+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:31:47.231+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-08-15T14:31:47.243+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2025-08-15T14:31:47.261+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:31:47.261+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-15T14:31:47.285+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:31:47.285+0000] {dag.py:3504} INFO - Setting next_dagrun for example_task_group_decorator to 2025-08-14T14:31:47.284721+00:00, run_after=2025-08-15T14:31:47.284721+00:00
+[2025-08-15T14:31:47.310+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.083 seconds

@@ -1,0 +1,37 @@
+2025-08-14 09:39:01,901 INFO - Starting the scheduler
+2025-08-14 09:39:01,902 INFO - Processing each file at most -1 times
+2025-08-14 09:39:01,907 INFO - Launched DagFileProcessorManager with pid: 3453
+2025-08-14 09:39:01,908 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 09:39:01,919 INFO - Configured default timezone Timezone('UTC')
+2025-08-14 09:44:02,107 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 09:49:02,150 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 09:54:02,316 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 09:59:00,644 INFO - Exiting gracefully upon receiving signal 15
+2025-08-14 09:59:01,646 INFO - Sending Signals.SIGTERM to group 3453. PIDs of all processes in the group: [3453]
+2025-08-14 09:59:01,647 INFO - Sending the signal Signals.SIGTERM to group 3453
+2025-08-14 09:59:01,821 INFO - Process psutil.Process(pid=3453, status='terminated', exitcode=0, started='09:39:01') (3453) terminated with exit code 0
+2025-08-14 09:59:01,824 INFO - Sending Signals.SIGTERM to group 3453. PIDs of all processes in the group: []
+2025-08-14 09:59:01,825 INFO - Sending the signal Signals.SIGTERM to group 3453
+2025-08-14 09:59:01,825 INFO - Sending the signal Signals.SIGTERM to process 3453 as process group is missing.
+2025-08-14 09:59:01,826 INFO - Exited execute loop
+2025-08-14 10:05:41,030 INFO - Starting the scheduler
+2025-08-14 10:05:41,033 INFO - Processing each file at most -1 times
+2025-08-14 10:05:41,041 INFO - Launched DagFileProcessorManager with pid: 14971
+2025-08-14 10:05:41,044 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 10:05:41,050 INFO - Configured default timezone Timezone('UTC')
+2025-08-14 10:10:41,244 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 10:15:41,369 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 10:20:41,527 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 10:25:41,568 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 10:30:41,746 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 10:35:41,828 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 10:40:41,999 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 10:45:42,163 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 10:50:42,319 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 10:55:42,482 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 11:00:42,594 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 11:05:42,755 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 11:10:42,913 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 11:15:43,074 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 11:20:43,332 INFO - Resetting orphaned tasks for active dag runs
+2025-08-14 11:25:43,489 INFO - Resetting orphaned tasks for active dag runs

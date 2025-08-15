@@ -4,13 +4,13 @@ from airflow.operators.bash import BashOperator
 from airflow import DAG
 
 default_args = {
-        'owner': 'Vinoo',
+        'owner': 'Himanshu',
         'depends_on_past': False,
         'email_on_failure': False,
         'email_on_retry': False,
         'retries': 0,
         'catchup': False,
-        'start_date': datetime(2023, 1, 1)
+        'start_date': datetime(2025, 8, 15)
 }
 
 with DAG(

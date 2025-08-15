@@ -1,0 +1,10 @@
+[2025-08-15T14:31:03.812+0000] {processor.py:157} INFO - Started process (PID=5002) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-08-15T14:31:03.813+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2025-08-15T14:31:03.813+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:31:03.813+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-08-15T14:31:03.815+0000] {processor.py:838} WARNING - No viable dags retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-08-15T14:31:03.825+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.015 seconds
+[2025-08-15T14:31:50.089+0000] {processor.py:157} INFO - Started process (PID=5323) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-08-15T14:31:50.090+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2025-08-15T14:31:50.091+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:31:50.090+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-08-15T14:31:50.092+0000] {processor.py:838} WARNING - No viable dags retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2025-08-15T14:31:50.100+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.013 seconds

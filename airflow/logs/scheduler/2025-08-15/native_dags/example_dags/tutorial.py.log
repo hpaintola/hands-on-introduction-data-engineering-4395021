@@ -1,0 +1,21 @@
+[2025-08-15T14:30:53.510+0000] {processor.py:157} INFO - Started process (PID=4932) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-08-15T14:30:53.510+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-15T14:30:53.511+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:30:53.511+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-08-15T14:30:53.518+0000] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-08-15T14:30:53.536+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:30:53.536+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-15T14:30:53.552+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:30:53.552+0000] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2025-08-14T14:30:53.552253+00:00, run_after=2025-08-15T14:30:53.552253+00:00
+[2025-08-15T14:30:53.568+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.061 seconds
+[2025-08-15T14:31:39.806+0000] {processor.py:157} INFO - Started process (PID=5249) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-08-15T14:31:39.806+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-15T14:31:39.807+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:31:39.807+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-08-15T14:31:39.812+0000] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-08-15T14:31:39.823+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:31:39.823+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-15T14:31:39.837+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:31:39.837+0000] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2025-08-14T14:31:39.837508+00:00, run_after=2025-08-15T14:31:39.837508+00:00
+[2025-08-15T14:31:39.854+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.051 seconds
+[2025-08-15T14:32:24.562+0000] {processor.py:157} INFO - Started process (PID=5583) to work on /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-08-15T14:32:24.563+0000] {processor.py:826} INFO - Processing file /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-15T14:32:24.563+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:32:24.563+0000] {dagbag.py:541} INFO - Filling up the DagBag from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-08-15T14:32:24.568+0000] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2025-08-15T14:32:24.579+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:32:24.579+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2025-08-15T14:32:24.594+0000] {logging_mixin.py:150} INFO - [2025-08-15T14:32:24.594+0000] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2025-08-14T14:32:24.593925+00:00, run_after=2025-08-15T14:32:24.593925+00:00
+[2025-08-15T14:32:24.609+0000] {processor.py:179} INFO - Processing /home/vscode/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.049 seconds
