@@ -32,3 +32,8 @@
 [[34m2025-08-15T15:30:30.551+0000[0m] {[34mdagrun.py:[0m681} INFO[0m - DagRun Finished: dag_id=two_task_dag, execution_date=2025-08-15 15:30:20.638636+00:00, run_id=manual__2025-08-15T15:30:20.638636+00:00, run_start_date=2025-08-15 15:30:21.693868+00:00, run_end_date=2025-08-15 15:30:30.551725+00:00, run_duration=8.857857, state=success, external_trigger=True, run_type=manual, data_interval_start=2025-08-15 15:30:20.638636+00:00, data_interval_end=2025-08-15 15:30:20.638636+00:00, dag_hash=b9ae057a2c3f32008db64f0c4e9ad532[0m
 [[34m2025-08-15T15:32:51.920+0000[0m] {[34mscheduler_job_runner.py:[0m1553} INFO[0m - Resetting orphaned tasks for active dag runs[0m
 [[34m2025-08-15T15:32:51.922+0000[0m] {[34mscheduler_job_runner.py:[0m1576} INFO[0m - Marked 1 SchedulerJob instances as failed[0m
+[[34m2025-08-15T15:37:51.964+0000[0m] {[34mscheduler_job_runner.py:[0m1553} INFO[0m - Resetting orphaned tasks for active dag runs[0m
+[[34m2025-08-15T15:42:52.011+0000[0m] {[34mscheduler_job_runner.py:[0m1553} INFO[0m - Resetting orphaned tasks for active dag runs[0m
+[[34m2025-08-15T15:47:52.049+0000[0m] {[34mscheduler_job_runner.py:[0m1553} INFO[0m - Resetting orphaned tasks for active dag runs[0m
+[[34m2025-08-15T15:52:52.090+0000[0m] {[34mscheduler_job_runner.py:[0m1553} INFO[0m - Resetting orphaned tasks for active dag runs[0m
+[[34m2025-08-15T15:57:52.131+0000[0m] {[34mscheduler_job_runner.py:[0m1553} INFO[0m - Resetting orphaned tasks for active dag runs[0m

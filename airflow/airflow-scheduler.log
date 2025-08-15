@@ -42,3 +42,8 @@
 2025-08-15 15:30:30,551 INFO - DagRun Finished: dag_id=two_task_dag, execution_date=2025-08-15 15:30:20.638636+00:00, run_id=manual__2025-08-15T15:30:20.638636+00:00, run_start_date=2025-08-15 15:30:21.693868+00:00, run_end_date=2025-08-15 15:30:30.551725+00:00, run_duration=8.857857, state=success, external_trigger=True, run_type=manual, data_interval_start=2025-08-15 15:30:20.638636+00:00, data_interval_end=2025-08-15 15:30:20.638636+00:00, dag_hash=b9ae057a2c3f32008db64f0c4e9ad532
 2025-08-15 15:32:51,920 INFO - Resetting orphaned tasks for active dag runs
 2025-08-15 15:32:51,922 INFO - Marked 1 SchedulerJob instances as failed
+2025-08-15 15:37:51,964 INFO - Resetting orphaned tasks for active dag runs
+2025-08-15 15:42:52,011 INFO - Resetting orphaned tasks for active dag runs
+2025-08-15 15:47:52,049 INFO - Resetting orphaned tasks for active dag runs
+2025-08-15 15:52:52,090 INFO - Resetting orphaned tasks for active dag runs
+2025-08-15 15:57:52,131 INFO - Resetting orphaned tasks for active dag runs
