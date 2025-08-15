@@ -1,0 +1,44 @@
+2025-08-15 15:14:13,384 INFO - Starting the scheduler
+2025-08-15 15:14:13,384 INFO - Processing each file at most -1 times
+2025-08-15 15:14:13,390 INFO - Launched DagFileProcessorManager with pid: 26898
+2025-08-15 15:14:13,391 INFO - Resetting orphaned tasks for active dag runs
+2025-08-15 15:14:13,394 INFO - Configured default timezone Timezone('UTC')
+2025-08-15 15:19:13,585 INFO - Resetting orphaned tasks for active dag runs
+2025-08-15 15:24:13,751 INFO - Resetting orphaned tasks for active dag runs
+2025-08-15 15:27:16,514 INFO - Exiting gracefully upon receiving signal 15
+2025-08-15 15:27:16,840 INFO - Sending Signals.SIGTERM to group 26898. PIDs of all processes in the group: []
+2025-08-15 15:27:16,841 INFO - Sending the signal Signals.SIGTERM to group 26898
+2025-08-15 15:27:16,842 INFO - Sending the signal Signals.SIGTERM to process 26898 as process group is missing.
+2025-08-15 15:27:16,845 INFO - Sending Signals.SIGTERM to group 26898. PIDs of all processes in the group: []
+2025-08-15 15:27:16,846 INFO - Sending the signal Signals.SIGTERM to group 26898
+2025-08-15 15:27:16,846 INFO - Sending the signal Signals.SIGTERM to process 26898 as process group is missing.
+2025-08-15 15:27:16,847 INFO - Exited execute loop
+2025-08-15 15:27:51,835 INFO - Starting the scheduler
+2025-08-15 15:27:51,836 INFO - Processing each file at most -1 times
+2025-08-15 15:27:51,840 INFO - Launched DagFileProcessorManager with pid: 35652
+2025-08-15 15:27:51,842 INFO - Resetting orphaned tasks for active dag runs
+2025-08-15 15:27:51,845 INFO - Configured default timezone Timezone('UTC')
+2025-08-15 15:30:21,732 INFO - 1 tasks up for execution:
+	<TaskInstance: two_task_dag.bash_task_0 manual__2025-08-15T15:30:20.638636+00:00 [scheduled]>
+2025-08-15 15:30:21,733 INFO - DAG two_task_dag has 0/16 running and queued tasks
+2025-08-15 15:30:21,733 INFO - Setting the following tasks to queued state:
+	<TaskInstance: two_task_dag.bash_task_0 manual__2025-08-15T15:30:20.638636+00:00 [scheduled]>
+2025-08-15 15:30:21,735 INFO - Sending TaskInstanceKey(dag_id='two_task_dag', task_id='bash_task_0', run_id='manual__2025-08-15T15:30:20.638636+00:00', try_number=1, map_index=-1) to executor with priority 2 and queue default
+2025-08-15 15:30:21,735 INFO - Adding to queue: ['airflow', 'tasks', 'run', 'two_task_dag', 'bash_task_0', 'manual__2025-08-15T15:30:20.638636+00:00', '--local', '--subdir', 'DAGS_FOLDER/two_task_dag.py']
+2025-08-15 15:30:21,739 INFO - Executing command: ['airflow', 'tasks', 'run', 'two_task_dag', 'bash_task_0', 'manual__2025-08-15T15:30:20.638636+00:00', '--local', '--subdir', 'DAGS_FOLDER/two_task_dag.py']
+2025-08-15 15:30:23,568 INFO - Received executor event with state success for task instance TaskInstanceKey(dag_id='two_task_dag', task_id='bash_task_0', run_id='manual__2025-08-15T15:30:20.638636+00:00', try_number=1, map_index=-1)
+2025-08-15 15:30:23,574 INFO - TaskInstance Finished: dag_id=two_task_dag, task_id=bash_task_0, run_id=manual__2025-08-15T15:30:20.638636+00:00, map_index=-1, run_start_date=2025-08-15 15:30:23.095594+00:00, run_end_date=2025-08-15 15:30:23.216710+00:00, run_duration=0.121116, state=success, executor_state=success, try_number=1, max_tries=0, job_id=4, pool=default_pool, queue=default, priority_weight=2, operator=BashOperator, queued_dttm=2025-08-15 15:30:21.733835+00:00, queued_by_job_id=3, pid=36792
+2025-08-15 15:30:23,716 INFO - 1 tasks up for execution:
+	<TaskInstance: two_task_dag.bash_task_1 manual__2025-08-15T15:30:20.638636+00:00 [scheduled]>
+2025-08-15 15:30:23,716 INFO - DAG two_task_dag has 0/16 running and queued tasks
+2025-08-15 15:30:23,717 INFO - Setting the following tasks to queued state:
+	<TaskInstance: two_task_dag.bash_task_1 manual__2025-08-15T15:30:20.638636+00:00 [scheduled]>
+2025-08-15 15:30:23,718 INFO - Sending TaskInstanceKey(dag_id='two_task_dag', task_id='bash_task_1', run_id='manual__2025-08-15T15:30:20.638636+00:00', try_number=1, map_index=-1) to executor with priority 1 and queue default
+2025-08-15 15:30:23,718 INFO - Adding to queue: ['airflow', 'tasks', 'run', 'two_task_dag', 'bash_task_1', 'manual__2025-08-15T15:30:20.638636+00:00', '--local', '--subdir', 'DAGS_FOLDER/two_task_dag.py']
+2025-08-15 15:30:23,721 INFO - Executing command: ['airflow', 'tasks', 'run', 'two_task_dag', 'bash_task_1', 'manual__2025-08-15T15:30:20.638636+00:00', '--local', '--subdir', 'DAGS_FOLDER/two_task_dag.py']
+2025-08-15 15:30:30,514 INFO - Received executor event with state success for task instance TaskInstanceKey(dag_id='two_task_dag', task_id='bash_task_1', run_id='manual__2025-08-15T15:30:20.638636+00:00', try_number=1, map_index=-1)
+2025-08-15 15:30:30,518 INFO - TaskInstance Finished: dag_id=two_task_dag, task_id=bash_task_1, run_id=manual__2025-08-15T15:30:20.638636+00:00, map_index=-1, run_start_date=2025-08-15 15:30:25.061935+00:00, run_end_date=2025-08-15 15:30:30.187270+00:00, run_duration=5.125335, state=success, executor_state=success, try_number=1, max_tries=0, job_id=5, pool=default_pool, queue=default, priority_weight=1, operator=BashOperator, queued_dttm=2025-08-15 15:30:23.717597+00:00, queued_by_job_id=3, pid=36804
+2025-08-15 15:30:30,550 INFO - Marking run <DagRun two_task_dag @ 2025-08-15 15:30:20.638636+00:00: manual__2025-08-15T15:30:20.638636+00:00, state:running, queued_at: 2025-08-15 15:30:20.661215+00:00. externally triggered: True> successful
+2025-08-15 15:30:30,551 INFO - DagRun Finished: dag_id=two_task_dag, execution_date=2025-08-15 15:30:20.638636+00:00, run_id=manual__2025-08-15T15:30:20.638636+00:00, run_start_date=2025-08-15 15:30:21.693868+00:00, run_end_date=2025-08-15 15:30:30.551725+00:00, run_duration=8.857857, state=success, external_trigger=True, run_type=manual, data_interval_start=2025-08-15 15:30:20.638636+00:00, data_interval_end=2025-08-15 15:30:20.638636+00:00, dag_hash=b9ae057a2c3f32008db64f0c4e9ad532
+2025-08-15 15:32:51,920 INFO - Resetting orphaned tasks for active dag runs
+2025-08-15 15:32:51,922 INFO - Marked 1 SchedulerJob instances as failed

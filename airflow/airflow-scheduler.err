@@ -1,0 +1,12 @@
+[2025-08-15 15:27:51 +0000] [35649] [INFO] Starting gunicorn 20.1.0
+[2025-08-15 15:27:51 +0000] [35649] [ERROR] Connection in use: ('::', 8793)
+[2025-08-15 15:27:51 +0000] [35649] [ERROR] Retrying in 1 second.
+[2025-08-15 15:27:52 +0000] [35649] [ERROR] Connection in use: ('::', 8793)
+[2025-08-15 15:27:52 +0000] [35649] [ERROR] Retrying in 1 second.
+[2025-08-15 15:27:53 +0000] [35649] [ERROR] Connection in use: ('::', 8793)
+[2025-08-15 15:27:53 +0000] [35649] [ERROR] Retrying in 1 second.
+[2025-08-15 15:27:54 +0000] [35649] [ERROR] Connection in use: ('::', 8793)
+[2025-08-15 15:27:54 +0000] [35649] [ERROR] Retrying in 1 second.
+[2025-08-15 15:27:55 +0000] [35649] [ERROR] Connection in use: ('::', 8793)
+[2025-08-15 15:27:55 +0000] [35649] [ERROR] Retrying in 1 second.
+[2025-08-15 15:27:56 +0000] [35649] [ERROR] Can't connect to ('::', 8793)
